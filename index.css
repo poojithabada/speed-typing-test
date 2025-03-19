@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-image: linear-gradient(to right, #f2ebfe, #f3eaff, #dac0ff);
+    height: 100vh;
+}
+
+.spinner-border {
+    margin-left: 150px;
+    padding: 20px;
+}
+
+.time {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.heading {
+    color: #690cb0;
+    text-align: center;
+    font-weight: bold;
+}
+
+.image {
+    height: 15vh;
+    width: 10vw;
+    padding: 10px;
+    margin-left: 15px;
+}
+
+.quote {
+    height: 50%;
+}
+
+.inputEl {
+    height: 50%;
+}
+
+.submit {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 7px;
+    margin-left: 25px;
+}
+
+.reset {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 9px;
+    margin-left: 15px;
+}
+
+.card {
+    margin: 15px;
+    border-radius: 15px;
+    height: 50vh;
+    padding: 15px;
+
+}
